@@ -17,4 +17,7 @@ To use the stopwatch:
 2. Open the `inde.html` file in a web browser.
 3. Use the "Start", "Stop", "Reset", and "Lap" buttons to control the stopwatch.
 
-# Link of the project: 
+# Link of the project: https://github.com/Meghavathjyothibai/PRODIGY_WD_02
+
+# Screenshot of the website:
+
