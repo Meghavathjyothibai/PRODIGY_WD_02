@@ -20,4 +20,6 @@ To use the stopwatch:
 # Link of the project: https://github.com/Meghavathjyothibai/PRODIGY_WD_02
 
 # Screenshot of the website:
+![Screenshot_20240528_164311](https://github.com/Meghavathjyothibai/PRODIGY_WD_02/assets/168762488/c21f5740-ab62-4790-8e0d-6bb98524dfab)
+
 
